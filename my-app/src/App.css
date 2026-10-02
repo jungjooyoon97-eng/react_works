@@ -1,0 +1,14 @@
+
+.welcome{
+  color:blue;
+}
+
+p{
+  color:orange;
+}
+
+.list{
+  /* bullet points 없애기 */
+  list-style: none;
+  padding-left: 0;
+}
